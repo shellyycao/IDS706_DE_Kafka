@@ -2,7 +2,7 @@ import json
 from datetime import datetime
 
 from kafka import KafkaConsumer
-import psycopg2  # pip install psycopg2-binary
+import psycopg2 
 
 KAFKA_BOOTSTRAP = "localhost:9092"
 TOPIC = "rides"

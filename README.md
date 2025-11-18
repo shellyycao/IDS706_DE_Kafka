@@ -77,3 +77,10 @@ Each Kafka message is a JSON object with the following fields:
 
 
 
+### Final Video:
+[Screen recording of the real-time streaming dashboard](screenshot/record.mov)
+
+(The file is a .mov screen recording showing the producer, consumer, and Streamlit dashboard running end-to-end.)
+
+
+
